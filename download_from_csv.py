@@ -2,7 +2,7 @@ import csv
 import os
 import subprocess
 
-csv_file = 'cv_list.csv'
+csv_file = 'data_list.csv'
 
 download_dir = 'downloaded_files'
 
