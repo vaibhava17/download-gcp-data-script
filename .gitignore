@@ -1,3 +1,5 @@
 *.csv
 *.sql
 downloaded_files
+.idea
+.venv
